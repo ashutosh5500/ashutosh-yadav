@@ -49,6 +49,9 @@
   background-color: $background-dark;
   padding-top: 80px;
 
+  @media (max-width: 600px) {
+    padding-top: 0;
+  }
 
   .MyEducationContent {
     display: flex;
@@ -137,6 +140,7 @@
     h1 {
       font-size: 18px;
     }
+    padding-top: 0;
   }
 
   span {
@@ -244,7 +248,7 @@
   }
   .SkillsImage {
     img {
-      height: 100px;
+      height: 200px;
       width: 200px;
     }
   }
@@ -264,6 +268,7 @@
     h1 {
       font-size: 16px;
     }
+    padding-top: 0;
   }
 
   span {
@@ -425,7 +430,15 @@
 @media (max-width: 600px) {
   .Footer {
     padding: 10px 20px;
-    font-size: 10px;
+    font-size: 12px !important;
+
+    i {
+      font-size: 12px !important;
+    }
+
+    span {
+      font-size: 12px !important;
+    }
 
     button {
       padding: 5px 15px;

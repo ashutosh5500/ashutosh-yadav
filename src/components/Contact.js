@@ -17,7 +17,7 @@ const Contact = () => {
     ]
     return (
         <div className={"container-fluid HobbiesContainer"}>
-            <div className="row" style={{justifyContent: "center", padding: "50px 0px"}}>
+            <div className="row" style={{justifyContent: "center", paddingBottom: "50px"}}>
                 <h1>Contact <span>Me</span></h1>
                 <div className="HobbiesContent mt-5">
                     <div className="sm-col-12 w-100">
