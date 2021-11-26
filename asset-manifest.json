@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ashutosh-yadav/static/css/main.d65c1033.chunk.css",
-    "main.js": "/ashutosh-yadav/static/js/main.bb0b9e4e.chunk.js",
-    "main.js.map": "/ashutosh-yadav/static/js/main.bb0b9e4e.chunk.js.map",
+    "main.css": "/ashutosh-yadav/static/css/main.21573955.chunk.css",
+    "main.js": "/ashutosh-yadav/static/js/main.278e7bed.chunk.js",
+    "main.js.map": "/ashutosh-yadav/static/js/main.278e7bed.chunk.js.map",
     "runtime-main.js": "/ashutosh-yadav/static/js/runtime-main.c627ce4f.js",
     "runtime-main.js.map": "/ashutosh-yadav/static/js/runtime-main.c627ce4f.js.map",
     "static/js/2.b5fef8cf.chunk.js": "/ashutosh-yadav/static/js/2.b5fef8cf.chunk.js",
@@ -10,16 +10,15 @@
     "static/js/3.49a1922d.chunk.js": "/ashutosh-yadav/static/js/3.49a1922d.chunk.js",
     "static/js/3.49a1922d.chunk.js.map": "/ashutosh-yadav/static/js/3.49a1922d.chunk.js.map",
     "index.html": "/ashutosh-yadav/index.html",
-    "static/css/main.d65c1033.chunk.css.map": "/ashutosh-yadav/static/css/main.d65c1033.chunk.css.map",
+    "static/css/main.21573955.chunk.css.map": "/ashutosh-yadav/static/css/main.21573955.chunk.css.map",
     "static/js/2.b5fef8cf.chunk.js.LICENSE.txt": "/ashutosh-yadav/static/js/2.b5fef8cf.chunk.js.LICENSE.txt",
-    "static/media/dude.f768151d.png": "/ashutosh-yadav/static/media/dude.f768151d.png",
-    "static/media/image.ac1caf01.svg": "/ashutosh-yadav/static/media/image.ac1caf01.svg",
+    "static/media/19362653-removebg-preview.fb89c83d.png": "/ashutosh-yadav/static/media/19362653-removebg-preview.fb89c83d.png",
     "static/media/redux-logo-black-and-white.cae23159.png": "/ashutosh-yadav/static/media/redux-logo-black-and-white.cae23159.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c627ce4f.js",
     "static/js/2.b5fef8cf.chunk.js",
-    "static/css/main.d65c1033.chunk.css",
-    "static/js/main.bb0b9e4e.chunk.js"
+    "static/css/main.21573955.chunk.css",
+    "static/js/main.278e7bed.chunk.js"
   ]
 }
