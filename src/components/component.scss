@@ -56,6 +56,11 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 18px;
+      }
+    }
 
     .ContentItem {
       color: white;
@@ -67,7 +72,10 @@
         @media (max-width: 600px) {
 
           span {
-            font-size: 18px;
+            font-size: 12px;
+          }
+          p {
+            font-size: 10px !important;
           }
 
         }
@@ -81,6 +89,13 @@
           align-items: center;
           border: 2px solid $primary-yellow;
           border-radius: 50%;
+          @media(max-width: 600px) {
+            height: 50px;
+            width: 50px;
+            i {
+              font-size: 1rem;
+            }
+          }
 
           &:hover {
             transform: rotateY(360deg);
@@ -119,6 +134,11 @@
 .SkillsContainer {
   background-color: $background-dark;
   padding-top: 50px;
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 18px;
+    }
+  }
 
   span {
     color: $primary-yellow;
@@ -145,7 +165,7 @@
       color: white;
       display: flex;
       justify-content: space-between;
-      width: 50%;
+      width: 60%;
       flex-wrap: wrap;
 
       .ReduxIcon {
@@ -214,23 +234,24 @@
     justify-content: center !important;
 
     div {
-      height: 70px !important;
-      width: 70px !important;
+      height: 10px !important;
+      width: 10px !important;
+      margin: 5px !important;
 
       i {
-        font-size: 3rem !important;
+        font-size: 2rem !important;
       }
     }
   }
   .SkillsImage {
     img {
-      height: 300px;
+      height: 100px;
       width: 200px;
     }
   }
   .ReduxIcon {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
   }
 }
 
@@ -240,6 +261,11 @@
 .HobbiesContainer {
   background-color: $background-dark;
   padding-top: 50px;
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 16px;
+    }
+  }
 
   span {
     color: $primary-yellow;
@@ -268,6 +294,7 @@
       color: white;
       display: flex;
       justify-content: space-evenly;
+      padding: 0 500px;
 
       .PianoIcon {
         &:hover {
@@ -328,11 +355,14 @@
 
 @media (max-width: 600px) {
   .HobbiesIcon {
+    padding: 0 !important;
+
     a {
       i {
         font-size: 2rem !important;
       }
     }
+
 
     div {
       height: 50px !important;
@@ -396,7 +426,7 @@
 @media (max-width: 600px) {
   .Footer {
     padding: 10px 20px;
-    font-size: 12px;
+    font-size: 10px;
 
     button {
       padding: 5px 15px;

@@ -10,7 +10,8 @@ const MyEducation = () => {
                     <div className={"row ContentItem"}>
 
                         <div className="col-6 border-right">
-                            <div className={"Study"}>
+                            <div className={"Study"}
+                                 style={{display: "flex", flexDirection: "column", alignItems: "start"}}>
                                 <div className={"StudyIcon"}><i className="fas fa-user-graduate"/></div>
                                 <span>B.Tech Degree</span>
                                 <p>2017-2021</p>
@@ -19,11 +20,12 @@ const MyEducation = () => {
                         </div>
 
                         <div className="col-6">
-                            <div className={"Study"}>
+                            <div className={"Study"}
+                                 style={{display: "flex", flexDirection: "column", alignItems: "end"}}>
                                 <div className={"StudyIcon"}><i className="fas fa-school"/></div>
                                 <span>Higher Secondary Education</span>
                                 <p>2016-2017</p>
-                                <p>Green Valley Senior Sec School Bhopal In PCM Stream</p>
+                                <p style={{textAlign: "end"}}>Green Valley Senior Sec School Bhopal In PCM Stream</p>
                             </div>
 
                         </div>

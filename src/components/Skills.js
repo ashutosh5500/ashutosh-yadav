@@ -1,6 +1,6 @@
 import React from 'react';
 import './component.scss';
-import SkillImg from '../assets/images/dude.png'
+import SkillImg from '../assets/images/19362653-removebg-preview.png'
 import ReduxLogo from '../assets/images/redux-logo-black-and-white.png'
 
 const Skills = () => {
@@ -38,7 +38,7 @@ const Skills = () => {
                 <div className="SkillsContent mt-5">
                     <div className="col-6">
                         <div className={"SkillsImage"}>
-                            <img src={SkillImg} alt=""/>
+                            <img src={SkillImg} height={"500px"} width={"700px"} alt=""/>
                         </div>
                     </div>
                     <div className="col-6 m-auto">

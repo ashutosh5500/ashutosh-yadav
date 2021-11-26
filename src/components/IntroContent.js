@@ -26,7 +26,7 @@ const IntroContent = () => {
     return (
         <div className="wrap">
             <div className="video-container">
-                <span style={{whiteSpace: 'pre'}} ref={el}></span>
+                <span style={{whiteSpace: 'pre'}} ref={el}/>
             </div>
         </div>
     );
