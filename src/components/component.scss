@@ -201,10 +201,10 @@
           border-radius: 6px;
           padding: 5px 0;
           letter-spacing: 2px;
-          /* Position the tooltip */
           position: absolute;
           z-index: 1000000;
           font-weight: 900;
+          font-size: 12px;
         }
 
         &:hover {
@@ -240,15 +240,16 @@
       height: 10px !important;
       width: 10px !important;
       margin: 5px !important;
+      padding: 20px !important;
 
       i {
-        font-size: 2rem !important;
+        font-size: 1.5rem !important;
       }
     }
   }
   .SkillsImage {
     img {
-      height: 200px;
+      height: 150px;
       width: 200px;
     }
   }
