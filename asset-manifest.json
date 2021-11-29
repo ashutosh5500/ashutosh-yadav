@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ashutosh-yadav/static/css/main.7aad5b6f.chunk.css",
+    "main.css": "/ashutosh-yadav/static/css/main.d0f97e2c.chunk.css",
     "main.js": "/ashutosh-yadav/static/js/main.0ff7bdb3.chunk.js",
     "main.js.map": "/ashutosh-yadav/static/js/main.0ff7bdb3.chunk.js.map",
     "runtime-main.js": "/ashutosh-yadav/static/js/runtime-main.c627ce4f.js",
@@ -10,7 +10,7 @@
     "static/js/3.49a1922d.chunk.js": "/ashutosh-yadav/static/js/3.49a1922d.chunk.js",
     "static/js/3.49a1922d.chunk.js.map": "/ashutosh-yadav/static/js/3.49a1922d.chunk.js.map",
     "index.html": "/ashutosh-yadav/index.html",
-    "static/css/main.7aad5b6f.chunk.css.map": "/ashutosh-yadav/static/css/main.7aad5b6f.chunk.css.map",
+    "static/css/main.d0f97e2c.chunk.css.map": "/ashutosh-yadav/static/css/main.d0f97e2c.chunk.css.map",
     "static/js/2.b5fef8cf.chunk.js.LICENSE.txt": "/ashutosh-yadav/static/js/2.b5fef8cf.chunk.js.LICENSE.txt",
     "static/media/19362653-removebg-preview.fb89c83d.png": "/ashutosh-yadav/static/media/19362653-removebg-preview.fb89c83d.png",
     "static/media/redux-logo-black-and-white.cae23159.png": "/ashutosh-yadav/static/media/redux-logo-black-and-white.cae23159.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c627ce4f.js",
     "static/js/2.b5fef8cf.chunk.js",
-    "static/css/main.7aad5b6f.chunk.css",
+    "static/css/main.d0f97e2c.chunk.css",
     "static/js/main.0ff7bdb3.chunk.js"
   ]
 }
